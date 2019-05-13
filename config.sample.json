@@ -13,7 +13,7 @@
     "features": {
         "feature_groups": "labs",
         "feature_pinning": "labs",
-        "feature_reactions": "labs"
+        "feature_reactions": "labs",
         "feature_rich_quoting": "labs",
         "feature_presence_management": "labs",
         "feature_sticker_messages": "labs",
@@ -26,7 +26,7 @@
         "feature_tabbed_settings": "labs",
         "feature_sas": "labs",
         "feature_room_breadcrumbs": "labs",
-        "feature_state_counters": "labs",
+        "feature_state_counters": "labs"
     },
     "default_federate": true,
     "default_theme": "light",
